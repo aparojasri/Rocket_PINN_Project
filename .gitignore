@@ -1,0 +1,20 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook junk
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+
+# Large files (optional, un-comment if your models are >100MB)
+# *.pt
+# *.pth
+# *.onnx
+
+# OS junk
+Thumbs.db
+Desktop.ini
